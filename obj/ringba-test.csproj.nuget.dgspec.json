@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/stamatiosstamoulas/Desktop/ringba-test/ringba-test.csproj": {}
+  },
+  "projects": {
+    "/Users/stamatiosstamoulas/Desktop/ringba-test/ringba-test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/stamatiosstamoulas/Desktop/ringba-test/ringba-test.csproj",
+        "projectName": "ringba-test",
+        "projectPath": "/Users/stamatiosstamoulas/Desktop/ringba-test/ringba-test.csproj",
+        "packagesPath": "/Users/stamatiosstamoulas/.nuget/packages/",
+        "outputPath": "/Users/stamatiosstamoulas/Desktop/ringba-test/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/stamatiosstamoulas/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

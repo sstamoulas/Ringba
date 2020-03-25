@@ -1,0 +1,11 @@
+/Users/stamatiosstamoulas/Desktop/ringba-test/obj/Debug/netcoreapp2.2/ringba-test.csprojAssemblyReference.cache
+/Users/stamatiosstamoulas/Desktop/ringba-test/obj/Debug/netcoreapp2.2/ringba-test.csproj.CoreCompileInputs.cache
+/Users/stamatiosstamoulas/Desktop/ringba-test/obj/Debug/netcoreapp2.2/ringba-test.AssemblyInfoInputs.cache
+/Users/stamatiosstamoulas/Desktop/ringba-test/obj/Debug/netcoreapp2.2/ringba-test.AssemblyInfo.cs
+/Users/stamatiosstamoulas/Desktop/ringba-test/bin/Debug/netcoreapp2.2/ringba-test.deps.json
+/Users/stamatiosstamoulas/Desktop/ringba-test/bin/Debug/netcoreapp2.2/ringba-test.runtimeconfig.json
+/Users/stamatiosstamoulas/Desktop/ringba-test/bin/Debug/netcoreapp2.2/ringba-test.runtimeconfig.dev.json
+/Users/stamatiosstamoulas/Desktop/ringba-test/bin/Debug/netcoreapp2.2/ringba-test.dll
+/Users/stamatiosstamoulas/Desktop/ringba-test/bin/Debug/netcoreapp2.2/ringba-test.pdb
+/Users/stamatiosstamoulas/Desktop/ringba-test/obj/Debug/netcoreapp2.2/ringba-test.dll
+/Users/stamatiosstamoulas/Desktop/ringba-test/obj/Debug/netcoreapp2.2/ringba-test.pdb
